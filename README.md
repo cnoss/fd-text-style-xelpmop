@@ -51,4 +51,4 @@ Sie zieht frustriert das Kabel des Telefons aus der Buchse, seufzt noch einmal t
 
 Mit zitternden Händen ringt sie sich dazu durch die E-Mail endlich zu öffnen. Ein weißer Bildschirm, die Mail wird geladen...
 
-!(Gestaltung)[https://github.com/cnoss/fd-text-style-xelpmop/blob/master/images/layout.jpg]
+![Gestaltung](https://github.com/cnoss/fd-text-style-xelpmop/blob/master/images/layout.jpg)
